@@ -1,2 +1,2 @@
 # countdown
-my countdown
+countdown
